@@ -1,0 +1,117 @@
+[
+  {
+    "id":1,
+    "name": "GymBuddy",
+    "description": "Mobile first app for use in th Gym. It contains three difrent slips of workouts for six days of the week wich you can use for a month each. It also contains a glosary of difeerent muscle group excersises. And later you're going to be able to save a slip and save your progress. I made this app for my personal use to be able to guide myself while at the gym.",
+    "link": "https://dainty-sawine-529750.netlify.app/",
+    "preview": "gymbuddy.png",
+    "technologies": [
+      "Javascript",
+      "React.js",
+      "Bootstrap",
+      "React-Bootstrap",
+      "Netlify"
+    ]
+  },
+  {
+    "id":2,
+    "name": "NESCOM",
+    "description": "A SPA web app for a Technology consultant company, with services details and contact",
+    "link": "https://tubular-sundae-a2f15b.netlify.app/",
+    "preview": "NESCOM1.png",
+    "technologies": [
+      "Javascript",
+      "React.js",
+      "Bootstrap",
+      "React-Bootstrap",
+      "Netlify", "Formspree"
+    ]
+  },
+  {
+    "id":3,
+    "name": "Shopee",
+    "description": "A e-commerce practice app for fetching data, aplying serach parameters and maintaining them in the URL.",
+    "link": "https://flourishing-cassata-e51be7.netlify.app/",
+    "preview": "angular.png",
+    "technologies": [
+      "TypeScript",
+      "Angular.js",
+      "Angular Material",
+      "Json-server",
+      "Netlify"
+    ]
+  },
+  {
+    "id":4,
+    "name": "Pufi",
+    "description": "An e-commerce Layout web app page for practicing layouts.",
+    "link": "https://graceful-faun-435709.netlify.app/",
+    "preview": 
+      "pufi1.png",
+    "technologies": [
+      "Javascript",
+      "React.js",
+      "CSS",
+      "React-Bootstrap",
+      "Redux",
+      "Netlify"
+    ]
+  },
+  {
+    "id":5,
+    "name": "TaskCrator",
+    "description": "A full stack web app for CRUD of tasks,with user Register and LogIn",
+    "link": "https://phenomenal-figolla-699a33.netlify.app/login",
+    "preview": "task1.png",
+    "technologies": [
+      "Javascript",
+      "React.js",
+      "CSS",
+      "Redux",
+      "Node.Js",
+      "MongoDB",
+      "Espress",
+      "Mongoose",
+      "Netlify",
+      "Heroku"
+    ]
+  },
+  {
+    "id":6,
+    "name": "Burger Queen",
+    "description": "SPA development of a restaurant system through which users can take orders using a tablet, and send them to the kitchen with an interface that integrates with the API, with three diferent roles. To use please use the following users waiters-> email : meseros@burgerqueen.com , password : 12345678 , kitchen -> email : cocina@burgerqueen.com , password : 12345678 , Administrator -> email : admin@burgerqueen.com , password : 12345678",
+    "link": "https://burger-queen-70a0a.web.app/",
+    "preview": "burgerqueen1.png",
+    "technologies": [
+      "Javascript",
+      "React.js",
+      "SASS",
+      "Json-server",
+      "Firebase"
+    ]
+  },
+  {
+    "id":7,
+    "name": "Note That",
+    "description": "CRUD SPA development of note creation, with user registration and login with google provider",
+    "link": "https://note-that.firebaseapp.com/",
+    "preview": "note1.png",
+    "technologies": ["Javascript", "React.js", "CSS", "Firebase"]
+  },
+  {
+    "id":8,
+    "name": "Green Friends",
+    "description": "Development of SPA social network on caring for the environment, with CRUD of postsand giving like to other users post",
+    "link": "https://red-social-ee6aa.firebaseapp.com/",
+    "preview": "green.png",
+    "technologies": ["Vanilla Javascript", "CSS", "Firebase"]
+  },
+  {
+    "id":9,
+    "name": "Data Lover",
+    "description": "Manipulation of data, with fetching, sorting and filtering",
+    "link": "",
+    "preview": "pokemon.png",
+    "technologies": ["Vanilla Javascript", "CSS", "HTML"]
+  }
+]

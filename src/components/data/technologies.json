@@ -1,0 +1,98 @@
+[{
+    
+    "icon":"js-square",
+    "name":"JavaScript",
+    "area":"frontend"
+},
+{
+    "icon":"html5",
+    "name":"HTML",
+    "area":"frontend"
+},
+{
+    "icon":"css3-alt",
+    "name":"CSS3",
+    "area":"frontend"
+},{
+    "icon":"sass",
+    "name":"SASS",
+    "area":"frontend"
+},{
+    "icon":"",
+    "name":"TypeScript",
+    "area":"frontend"
+},{
+    "icon":"angular",
+    "name":"Angular.JS",
+    "area":"frontend"
+},{
+    "icon":"bootstrap",
+    "name":"Bootstrap",
+    "area":"styles"
+},{
+    "icon":"code-branch",
+    "name":"Git",
+    "area":"versions"
+},{
+    "icon":"node",
+    "name":"Node.JS",
+    "area":"backend"
+},{
+    "icon":"trello",
+    "name":"Trello",
+    "area":"management"
+},{
+    "icon":"figma",
+    "name":"Figma",
+    "area":"UX"
+},{
+    "icon":"",
+    "name":"RxJS",
+    "area":"frontend"
+},{
+    "icon":"",
+    "name":"Redux",
+    "area":"frontend"
+},{
+    "icon":"",
+    "name":"MongoDB",
+    "area":"backend"
+},{
+    "icon":"",
+    "name":"Express",
+    "area":"backend"
+}
+,{
+    "icon":"",
+    "name":"Mongoose",
+    "area":"backend"
+},{
+    "icon":"",
+    "name":"PostMan",
+    "area":"backend"
+},{
+    "icon":"",
+    "name":"Agile/Scrum",
+    "area":"management"
+},{
+    "icon":"",
+    "name":"React-Bootstrap",
+    "area":"styles"
+},{
+    "icon":"",
+    "name":"Netifly",
+    "area":"hosting"
+},{
+    "icon":"",
+    "name":"Heroku",
+    "area":"hosting"
+},{
+    "icon":"",
+    "name":"Firebase",
+    "area":"backend"
+},
+{
+    "icon":"mdb",
+    "name":"MDB react",
+    "area":"styles"
+}]
