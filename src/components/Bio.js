@@ -28,7 +28,7 @@ const Bio = () => {
     <div className="gradient-custom-2" style={{ backgroundColor: "#9de2ff" }}>
       <MDBContainer className="py-5 h-100">
         <MDBRow className="justify-content-center align-items-center h-100">
-          <MDBCol lg="9" xl="7">
+          <MDBCol lg="9" xl="7" sm="3">
             <MDBCard>
               <div
                 className="rounded-top text-white d-flex flex-row"
@@ -49,7 +49,7 @@ const Bio = () => {
                   <MessageMe />
                   </div>
                 </div>
-                <div className="ms-3" style={{ marginTop: "130px" }}>
+                <div className="ms-3" style={{ marginTop: "120px" }}>
                   <MDBTypography tag="h5">
                     Cynthia Daniela Piña Olivares
                   </MDBTypography>

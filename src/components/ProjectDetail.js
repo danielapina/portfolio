@@ -42,7 +42,7 @@ const ProjectDetail = ({
               <MDBCardImage
                 position="top"
                 className="img-thumbnail "
-                style={{ height: "50vmin", width: "100vmin", marginLeft: "6%" }}
+                style={{ height: "60%", width: "85%", marginLeft: "7%" }}
                 src={require(`./assets/${preview}`)}
                 alt="..."
               />

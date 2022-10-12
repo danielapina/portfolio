@@ -8,3 +8,20 @@
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background: linear-gradient(to right, #719191, #c36a58)
     }
+
+    [class*=btn-outline-] {
+        padding: 0.5rem 1rem 0.375rem 1rem;
+    }
+    #first{
+        display:none;
+    }
+
+    @media only screen and (max-width:767px)
+{
+    #first {
+        display: block;
+        }
+#secondary {
+display: none;
+}
+}

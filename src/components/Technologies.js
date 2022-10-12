@@ -8,11 +8,13 @@ import {
   MDBBadge,
 } from "mdb-react-ui-kit";
 import grey from "./assets/grey.png";
+import PhoneTec from './PhoneTec';
 import "./styles/Carousel.css";
 
 const Technologies = () => {
   return (
-    <MDBCarousel showIndicators showControls fade>
+    <>
+    <MDBCarousel showIndicators showControls fade id="secondary">
       <MDBCarouselItem
         className="w-100 d-block"
         itemId={1}
@@ -461,6 +463,10 @@ const Technologies = () => {
         </div>
       </MDBCarouselItem>
     </MDBCarousel>
+    <div id="first">
+<PhoneTec/>
+    </div>
+    </>
   );
 };
 
